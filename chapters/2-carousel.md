@@ -10,7 +10,7 @@ I've put together a simple enough jQuery Carousel which boasts the following fea
 - Moves automatically every 10 seconds
 - If you hit the page with a hash such as `#image2`, it will move the carousel to that image.
 
-Hardily a fully featured carousel but it covers the basic functionality of most carousels I've seen, and those features provide enough scope for me to produce bad code that we can tidy. Take a deep breath and we'll dive in.
+Hardly a fully featured carousel but it covers the basic functionality of most carousels I've seen, and those features provide enough scope for me to produce bad code that we can tidy. Take a deep breath and we'll dive in.
 
 First, there's the HTML. Pretty simple and standard really:
 
